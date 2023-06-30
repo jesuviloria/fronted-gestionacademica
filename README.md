@@ -1,1 +1,1 @@
-# fronted-gestionacademica
+# frontend-gestionacademica
